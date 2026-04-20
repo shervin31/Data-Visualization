@@ -15,4 +15,4 @@ Throughout the course, I worked on:
 - scikit-learn  
 
 ## 📌 Focus  
-The emphasis of this course was not just on creating visuals, but on understanding how data is structured, cleaned, and transformed before visualization — and how design choices impact interpretation.  
+The emphasis of this course was not just on creating visuals, but on understanding how data is structured, cleaned, and transformed before visualization, and how design choices impact interpretation.  
